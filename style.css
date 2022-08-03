@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+.carousel-item {
+    position: relative;
+  background-color: black;
+}
+
+.banner-img {
+    opacity: 0.4;
+}
+
+
+.carousel-caption {
+    position: absolute;
+    top: 40%;
+
+}
