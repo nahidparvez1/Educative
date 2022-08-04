@@ -35,3 +35,7 @@
     width: 100%;
     height: 300px;
 }
+
+.feedback .card {
+    height: 336px;
+}
