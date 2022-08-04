@@ -26,3 +26,12 @@
 .ready-section {
     height: 300px;
 }
+
+.successfull-section .card {
+    height: 400px;
+    width: 312px;
+}
+.successfull-section .card img {
+    width: 100%;
+    height: 300px;
+}
