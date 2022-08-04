@@ -39,3 +39,12 @@
 .feedback .card {
     height: 336px;
 }
+
+footer {
+    height: 472px;
+}
+
+footer li {
+    list-style-type: none;
+    margin: 20px;
+}
