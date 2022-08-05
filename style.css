@@ -14,7 +14,7 @@
 
 .carousel-caption {
     position: absolute;
-    top: 40%;
+    top: 30%;
 
 }
 
@@ -36,9 +36,6 @@
     height: 300px;
 }
 
-.feedback .card {
-    height: 336px;
-}
 
 footer {
     height: 472px;
